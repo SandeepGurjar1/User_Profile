@@ -1,0 +1,12 @@
+.img1{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    display: flex;
+    margin-left: 10%;
+    margin-top: -18%;
+}
+.img0{
+    height: 300px;
+    width: 100%;
+}
